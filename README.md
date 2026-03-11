@@ -11,7 +11,7 @@ This project fetches live weather data and displays important weather details su
 
 ## 🚀 Live Demo
 
-👉 https://mdrajatech03.github.io/Weather-App/
+👉 [Show Project](https://mdrajatech03.github.io/Wheather-App/)
 
 ---
 
