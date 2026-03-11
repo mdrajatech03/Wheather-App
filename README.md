@@ -37,6 +37,7 @@ This project fetches live weather data and displays important weather details su
 ---
 
 ## 📂 Project Structure
+
 Weather-App │ ├── index.html ├── style.css ├── clear.png ├── clouds.png ├── drizzle.png ├── humidity.png ├── mist.png ├── rain.png ├── search.png ├── snow.png ├── wind.png └── README.md
 
 ---
@@ -44,9 +45,11 @@ Weather-App │ ├── index.html ├── style.css ├── clear.png ├
 ## ⚙️ How to Use
 
 1. Clone the repository
+   
    git clone https://github.com/mdrajatech03/Weather-App.git�
 
-2. pen the project folder
+3. pen the project folder
+   
    cd Weather-App
    
 4. Run the project
