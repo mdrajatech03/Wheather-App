@@ -156,6 +156,14 @@ body{
         padding:25px 20px;
     }
 
+    .search{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    }
+    
+
     .search input{
         height:40px;
         font-size:15px;
@@ -194,6 +202,7 @@ body{
     }
 
 }
+
 
 
 
