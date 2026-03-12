@@ -157,7 +157,7 @@ body{
     }
 
     .search input{
-        height:50px;
+        height:40px;
         font-size:15px;
     }
 
@@ -194,5 +194,6 @@ body{
     }
 
 }
+
 
 
