@@ -11,7 +11,7 @@ This project fetches live weather data and displays important weather details su
 
 ## 🚀 Live Demo
 
-**👉 [Show Project](https://mdrajatech03.github.io/Wheather-App/)**
+**👉 [Show Project](Weather-App https://wheather-app-navy-six.vercel.app/)**
 
 ---
 
@@ -46,7 +46,7 @@ Weather-App │ ├── index.html ├── style.css ├── clear.png ├
 
 1. Clone the repository
    
-   git clone https://github.com/mdrajatech03/Weather-App.git�
+   Weather-App https://wheather-app-navy-six.vercel.app/
 
 3. pen the project folder
    
