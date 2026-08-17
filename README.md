@@ -11,7 +11,7 @@ This project fetches live weather data and displays important weather details su
 
 ## 🚀 Live Demo
 
-**👉 [Show Project](wheather-app-navy-six.vercel.app/)**
+**👉 [Show Project](https://wheather-app-navy-six.vercel.app/)**
 
 ---
 
